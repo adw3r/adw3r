@@ -37,7 +37,7 @@
 
 ---
 
-<h3>Automation Developer — SoftSvit, Kyiv <span style="color: gray;">(Sep 2022 – Nov 2023)</span></h3>
+<h3>Automation Developer — SoftSvit, Kyiv <span style="color: gray;">(July 2022 – Nov 2023)</span></h3>
 <ul>
   <li><strong>Emailing framework:</strong> Python, requests, multithreading, multiprocessing, REGEX</li>
   <li>Custom engine similar to Scrapy with dynamic JSON/Python spiders</li>
@@ -47,7 +47,7 @@
 
 ---
 
-<h3>Automation Developer — Feleton, Kyiv <span style="color: gray;">(Feb 2021 – Feb 2022)</span></h3>
+<h3>Automation Developer — Feleton, Kyiv <span style="color: gray;">(Sep 2021 – Feb 2022)</span></h3>
 <ul>
   <li>Developed parsers and automation scripts for Instagram, Rabota.ua, Work.ua, Telegram, WhatsApp</li>
   <li>Optimized internal marketing workflows through automation</li>
